@@ -1,0 +1,47 @@
+,title,studio,lifetime_gross,year,wordsInTitle,url,type,imdbRating,ratingCount,nrOfWins,nrOfNominations,nrOfUserReviews,duration,Action,Adult,Comedy,Sport,War,Drama,Family,Horror,RealityTV,Thriller,award_performance
+0,Deadpool,Fox,363070709,2016,deadpool,http://www.imdb.com/title/tt1431045/,video.movie,6.290000000000001,49568.125,0,0,0,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+1,Cinderella (2015),BV,201151353,2015,cinderella,http://www.imdb.com/title/tt1661199/,video.movie,6.290000000000001,49568.125,0,0,0,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+2,Fantastic Four (2005),Fox,154696080,2005,fantastic four,http://www.imdb.com/title/tt0120667/,video.movie,5.7,200826.0,0,0,992,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+3,Hairspray (2007),NL,118871849,2007,hairspray,http://www.imdb.com/title/tt0427327/,video.movie,6.9,77236.0,13,19,386,7020.0,0,0,0,0,0,0,0,0,0,0,0.6842105263157895
+4,A Star Is Born (1976),WB,80000000,1976,a star is born,http://www.imdb.com/title/tt0075265/,video.movie,6.5,4197.0,6,6,47,8340.0,0,0,0,0,0,0,0,0,0,0,1.0
+5,Total Recall (2012),Sony,58877969,2012,total recall,http://www.imdb.com/title/tt1386703/,video.movie,6.3,157172.0,0,0,488,7080.0,0,0,0,0,0,0,0,0,0,0,0.0
+6,RoboCop (2014),Sony,58607007,2014,robocop,http://www.imdb.com/title/tt1234721/,video.movie,6.6,45479.0,0,0,362,7020.0,0,0,0,0,0,0,0,0,0,0,0.0
+7,Halloween (2007),MGM/W,58272029,2007,halloween,http://www.imdb.com/title/tt0373883/,video.movie,6.1,74647.0,0,0,1001,6540.0,0,0,0,0,0,0,0,0,0,0,0.0
+8,Cleopatra (1963),Fox,57777778,1963,cleopatra,http://www.imdb.com/title/tt0056937/,video.movie,7.0,17110.0,3,11,172,11520.0,0,0,0,0,0,0,0,0,0,0,0.2727272727272727
+9,Evil Dead (2013),TriS,54239856,2013,evil dead,http://www.imdb.com/title/tt1288558/,video.movie,6.5,94571.0,10,5,732,5460.0,0,0,0,0,0,0,0,0,0,0,2.0
+10,The Hateful Eight,Wein.,54117416,2015,the hateful eight,http://www.imdb.com/title/tt3460252/,video.movie,6.290000000000001,49568.125,0,0,0,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+11,Savages (2012),Uni.,47382068,2012,savages,http://www.imdb.com/title/tt1615065/,video.movie,6.6,84239.0,0,0,248,7860.0,0,0,0,0,0,0,0,0,0,0,0.0
+12,Legion (2010),SGem,40168080,2010,legion,http://www.imdb.com/title/tt1038686/,video.movie,5.1,66821.0,0,0,298,6000.0,0,0,0,0,0,0,0,0,0,0,0.0
+13,Pete's Dragon,BV,39588000,1977,pete s dragon,http://www.imdb.com/title/tt2788732/,video.movie,6.290000000000001,49568.125,0,0,0,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+14,Carrie (2013),SGem,35266619,2013,carrie,http://www.imdb.com/title/tt1939659/,video.movie,6.0,61174.0,1,3,283,6000.0,0,0,0,0,0,0,0,0,0,0,0.3333333333333333
+15,Drive (2011),FD,35060689,2011,drive,http://www.imdb.com/title/tt0780504/,video.movie,7.9,335287.0,43,80,1155,6000.0,0,0,0,0,0,0,0,0,0,0,0.5375
+16,Halloween II (2009),W/Dim.,33392973,2009,halloween ii,http://www.imdb.com/title/tt1311067/,video.movie,4.9,28688.0,0,0,471,6300.0,0,0,0,0,0,0,0,0,0,0,0.0
+17,Her (2013),WB,25568251,2013,her,http://www.imdb.com/title/tt1798709/,video.movie,8.3,98365.0,42,58,389,7560.0,0,0,0,0,0,0,0,0,0,0,0.7241379310344828
+18,Psycho (1998),Uni.,21456130,1998,psycho,http://www.imdb.com/title/tt0155975/,video.movie,4.6,32968.0,3,3,578,6300.0,0,0,0,0,0,0,0,0,0,0,1.0
+19,Julia (1977),Fox,20714400,1977,julia,http://www.imdb.com/title/tt0076245/,video.movie,7.4,5285.0,21,21,37,7020.0,0,0,0,0,0,0,0,0,0,0,1.0
+20,Hamlet (1990),WB,20710451,1990,hamlet,http://www.imdb.com/title/tt0099726/,video.movie,6.8,14937.0,3,2,89,7800.0,0,0,0,0,0,0,0,0,0,0,1.5
+21,Project X (1987),Fox,18532286,1987,project x,http://www.imdb.com/title/tt0093793/,video.movie,6.0,7245.0,0,0,32,6480.0,0,0,0,0,0,0,0,0,0,0,0.0
+22,Fright Night (2011),BV,18302607,2011,fright night,http://www.imdb.com/title/tt1438176/,video.movie,6.4,72316.0,4,1,224,6360.0,0,0,0,0,0,0,0,0,0,0,4.0
+23,The Thing (2011),Uni.,16928670,2011,the thing,http://www.imdb.com/title/tt0905372/,video.movie,6.3,73267.0,0,0,456,6180.0,0,0,0,0,0,0,0,0,0,0,0.0
+24,Hercules (1983),MGM,10676194,1983,hercules,http://www.imdb.com/title/tt0085672/,video.movie,3.5,1990.0,2,3,35,5880.0,0,0,0,0,0,0,0,0,0,0,0.6666666666666666
+25,Getaway (2013),WB,10501938,2013,getaway,http://www.imdb.com/title/tt2167202/,video.movie,4.3,13073.0,0,0,93,5400.0,0,0,0,0,0,0,0,0,0,0,0.0
+26,Fair Game (2010),Sum.,9540691,2010,fair game,http://www.imdb.com/title/tt0977855/,video.movie,6.8,32705.0,1,8,120,6480.0,0,0,0,0,0,0,0,0,0,0,0.125
+27,Hairspray (1988),NL,6671108,1988,hairspray,http://www.imdb.com/title/tt0095270/,video.movie,6.9,13492.0,0,0,57,5520.0,0,0,0,0,0,0,0,0,0,0,0.0
+28,Hamlet (1996),Sony,4708156,1996,hamlet,http://www.imdb.com/title/tt0116477/,video.movie,7.9,26558.0,6,12,208,14520.0,0,0,0,0,0,0,0,0,0,0,0.5
+29,Deception (2008),Fox,4598506,2008,deception,http://www.imdb.com/title/tt0800240/,video.movie,6.0,27877.0,0,0,97,6420.0,0,0,0,0,0,0,0,0,0,0,0.0
+30,Oldboy (2013),FD,2193658,2013,oldboy,http://www.imdb.com/title/tt1321511/,video.movie,5.6,28470.0,0,0,181,6240.0,0,0,0,0,0,0,0,0,0,0,0.0
+31,Crash (1996),FL,2038450,1996,crash,http://www.imdb.com/title/tt0115964/,video.movie,6.3,34301.0,8,4,284,6000.0,0,0,0,0,0,0,0,0,0,0,2.0
+32,Summer Hours,IFC,1657001,2009,summer hours,http://www.imdb.com/title/tt1602615/,video.movie,6.290000000000001,49568.125,0,0,0,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+33,Hamlet (2000),Mira.,1577287,2000,hamlet,http://www.imdb.com/title/tt0171359/,video.movie,6.0,7294.0,1,2,164,6720.0,0,0,0,0,0,0,0,0,0,0,0.5
+34,Wonderland (2003),Lions,1060512,2003,wonderland,http://www.imdb.com/title/tt0335563/,video.movie,6.6,17334.0,0,0,151,6240.0,0,0,0,0,0,0,0,0,0,0,0.0
+35,Fire and Ice,Fox,760883,1983,fire and ice,http://www.imdb.com/title/tt2381183/,video.movie,6.290000000000001,49568.125,0,0,0,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+36,Texas Rangers (2001),Mira.,623374,2001,texas rangers,http://www.imdb.com/title/tt0193560/,video.movie,5.2,4202.0,0,0,64,5160.0,0,0,0,0,0,0,0,0,0,0,0.0
+37,Highway (2014),UTV,529136,2014,highway,http://www.imdb.com/title/tt2980794/,video.movie,7.8,6204.0,0,0,111,7980.0,0,0,0,0,0,0,0,0,0,0,0.0
+38,Wanted (2009),Eros,349637,2009,wanted,http://www.imdb.com/title/tt1084972/,video.movie,6.6,6819.0,0,0,36,6360.0,0,0,0,0,0,0,0,0,0,0,0.0
+39,Stolen (2012),MNE,304318,2012,stolen,http://www.imdb.com/title/tt1656186/,video.movie,5.5,29401.0,0,0,73,5760.0,0,0,0,0,0,0,0,0,0,0,0.0
+40,Taxi (1998),Lions,268254,1998,taxi,http://www.imdb.com/title/tt0152930/,video.movie,6.9,52081.0,3,5,109,5160.0,0,0,0,0,0,0,0,0,0,0,0.6
+41,Hunger (2008),IFC,154084,2008,hunger,http://www.imdb.com/title/tt0986233/,video.movie,7.6,36844.0,36,22,121,5760.0,0,0,0,0,0,0,0,0,0,0,1.6363636363636365
+42,Game (2011),Eros,139528,2011,game,http://www.imdb.com/title/tt1772872/,video.movie,5.1,1304.0,2,0,17,8100.0,0,0,0,0,0,0,0,0,0,0,0.0
+43,Red Lights (2012),MNE,52624,2012,red lights,http://www.imdb.com/title/tt1748179/,video.movie,6.2,38440.0,0,0,122,6780.0,0,0,0,0,0,0,0,0,0,0,0.0
+44,To Die For (1995),FRun,27455,1995,to die for,http://www.imdb.com/title/tt0114681/,video.movie,6.8,30162.0,7,11,148,6360.0,0,0,0,0,0,0,0,0,0,0,0.6363636363636364
+45,Splinter (2008),Magn.,14154,2008,splinter,http://www.imdb.com/title/tt1031280/,video.movie,6.1,22344.0,7,1,115,4920.0,0,0,0,0,0,0,0,0,0,0,7.0
